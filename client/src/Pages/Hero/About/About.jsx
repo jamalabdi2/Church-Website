@@ -65,7 +65,7 @@ function About() {
             </h1>
             <div className="space-y-6">
               <p className="text-lg text-gray-700 leading-relaxed">
-                At Kungdong Global Christian Community Church (KGC), our
+                At Kyungdong Global Christian Community Church (KGC), our
                 foundation is firmly rooted in the timeless truths of the Bible,
                 and our focus is unwaveringly centered on Jesus Christ. As
                 pastor, I am delighted to share with you our mission, core

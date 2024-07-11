@@ -104,7 +104,7 @@ const placeholderImage = "https://via.placeholder.com/150";
 
 const Leaders = [
   { name: "Benjamin Ndih", image: PastorImage, role: ["Senior Pastor"] },
-  { name: "Elma Carmen", image: ElmaImage, role: ["Assistant Pastor", "Administration leaders"] },
+  { name: "Elma Carmen", image: ElmaImage, role: ["Assistant Pastor", "Administration leaders","Worship Team Director"] },
   { name: "Ashura Ngwashi Makoba", image: AshuraImage, role: ["Administration leader", "Media Team"] },
   { name: "Dr Kwon", image: ProfKwonImage, role: ["Senior Elder"] },
   { name: "Mr JK Lee", image: SponsorsImage, role: ["Senior Elder"] },
@@ -117,14 +117,14 @@ const Leaders = [
   { name: "Gaparaye jerry Jesse", image: JesseJerryCarrelImage, role: ["Event planner"] },
   { name: "Budanagi Lauria", image: LauriaBudanagiImage, role: ["Event planner"] },
   { name: "Rwotngeyo Roy Innocent", image: RoyInnocentImage, role: ["Event planner"] },
-  { name: "Mukiibi Mosses", image: MosesMukiibiImage, role: ["Instrumentalist"] },
-  { name: "Ntakarutimana Lievin", image: LievinNtakarutimanaImage, role: ["Instrumentalist"] },
-  { name: "Natus Fransics", image: NatusFrancisImage, role: ["Instrumentalist"] },
+  { name: "Mukiibi Mosses", image: MosesMukiibiImage, role: ["Choir Director"] },
+  { name: "Ntakarutimana Lievin", image: LievinNtakarutimanaImage, role: ["Music Director"] },
+  { name: "Natus Fransics", image: NatusFrancisImage, role: ["Instrumentalist","Worship Team",""] },
   { name: "Emmanuel", image: EmmanuelImage, role: ["Instrumentalist"] },
-  { name: "Albert Nshimirimana", image: AlbertImage, role: ["Choir"] },
-  { name: "Susani Anthony Mrefu", image: AnthonyMrefuImage, role: ["Choir"] },
-  { name: "Eunice Faustin", image: EuniceFaustinImage, role: ["Choir"] },
-  { name: "Enny Kathia", image: EnnyKathiaImage, role: ["Choir"] },
+  { name: "Albert Nshimirimana", image: AlbertImage, role: ["Worship Team","Driver"] },
+  { name: "Susani Anthony Mrefu", image: AnthonyMrefuImage, role: ["Finance","Media","Instrumentalist"] },
+  { name: "Eunice Faustin", image: EuniceFaustinImage, role: ["Worship Team"] },
+  { name: "Enny Kathia", image: EnnyKathiaImage, role: ["Worship Team"] },
 ];
 function Officials() {
   return (
