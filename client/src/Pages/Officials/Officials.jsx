@@ -119,7 +119,7 @@ const Leaders = [
   { name: "Rwotngeyo Roy Innocent", image: RoyInnocentImage, role: ["Event planner"] },
   { name: "Mukiibi Mosses", image: MosesMukiibiImage, role: ["Choir Director"] },
   { name: "Ntakarutimana Lievin", image: LievinNtakarutimanaImage, role: ["Music Director"] },
-  { name: "Natus Fransics", image: NatusFrancisImage, role: ["Instrumentalist","Worship Team",""] },
+  { name: "Natus Fransics", image: NatusFrancisImage, role: ["Instrumentalist","Worship Team"] },
   { name: "Emmanuel", image: EmmanuelImage, role: ["Instrumentalist"] },
   { name: "Albert Nshimirimana", image: AlbertImage, role: ["Worship Team","Driver"] },
   { name: "Susani Anthony Mrefu", image: AnthonyMrefuImage, role: ["Finance","Media","Instrumentalist"] },
